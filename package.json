@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "firebase": "^7.16.0",
     "googleapis": "^39.2.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "utf8-to-ansi": "^1.0.3",
     "vue": "^2.6.11",
     "vuetify": "^2.2.11"
